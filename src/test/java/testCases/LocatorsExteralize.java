@@ -21,5 +21,7 @@ public class LocatorsExteralize extends BaseTest
 		pwd.sendKeys("Maruthi@5312");
 		driver.findElement(By.id("nextbtn")).click();
 		Thread.sleep(1000);
+		
+		//vishant is don
 	}
 }
